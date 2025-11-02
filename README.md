@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Margarita — a Front-End Developer based in Gdańsk, Poland
 
-I’m a junior developer with a strong foundation in modern front-end technologies, gained through the intensive “JavaScript / Front-End” course at RS School. I enjoy turning ideas into clean, responsive, and accessible web interfaces.
-
-I recently took part in a team project where we built a production-level eCommerce app using **Next.js**, **Tailwind CSS**, and **Commercetools**. This experience helped me dive deeper into real-world development, Agile workflows, and team collaboration.
+Frontend Developer with a strong theoretical and practical foundation gained through the RS School “JS / Front-End” and “React” courses. Skilled in building responsive layouts and developing applications using JavaScript, TypeScript, React, Next.js, and modern development tools. Took part in a team project to deliver a production-level eCommerce application with Next.js, Tailwind CSS and Commercetools. Served as a team leader in the final project of the React course, coordinating development and ensuring successful delivery. Experienced with Agile workflows, code quality practices, and unit testing. A strong team player, quick to learn, detail-oriented, and ready to contribute to real-world development.
 
 🔍 I’m curious, fast-learning, and always looking to grow. I value clean code, thoughtful UI, and working in teams where shared learning and responsibility are encouraged.
 
